@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: 'Hind Siliguri', system-ui, sans-serif;
+}
+
+body {
+  font-family: 'Hind Siliguri', system-ui, sans-serif;
+}
+
+/* Anek Bangla — শুধুমাত্র সংখ্যার জন্য (তারিখের সংখ্যা, GPA, ফি, কাউন্টডাউন, পরিসংখ্যান) */
+.num {
+  font-family: 'Anek Bangla', 'Hind Siliguri', sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+/* নোটিশ টিকার অ্যানিমেশন */
+@keyframes ticker-scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.ticker-track {
+  animation: ticker-scroll 45s linear infinite;
+}
+
+.ticker-track:hover {
+  animation-play-state: paused;
+}
+
+/* স্ক্রলবার — সরু ও হালকা */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 9999px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* প্রিন্ট: শুধু টাইমটেবিল ছাপা হবে */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #print-area,
+  #print-area * {
+    visibility: visible;
+  }
+  #print-area {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+  }
+  .no-print {
+    display: none !important;
+  }
+}

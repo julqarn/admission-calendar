@@ -1,0 +1,1741 @@
+{
+  "meta": {
+    "title": "অ্যাডমিশন ক্যালেন্ডার ২০২৬-২৭",
+    "session": "২০২৬-২৭",
+    "verificationDate": "2026-11-24",
+    "scope": "বাংলাদেশের সরকারি বিশ্ববিদ্যালয়ের বিজ্ঞান / প্রকৌশল / প্রযুক্তি / কৃষি / মেডিকেল ভর্তি পরীক্ষা। বেসরকারি বিশ্ববিদ্যালয় এবং মানবিক ও ব্যবসায় শিক্ষা ইউনিট অন্তর্ভুক্ত নয়।",
+    "totalEntries": 23,
+    "totalUniversities": 49,
+    "distinctUniversities": 48,
+    "totalSources": 37,
+    "totalNotices": 12
+  },
+  "entries": [
+    {
+      "id": 1,
+      "name": "University of Dhaka (DU)",
+      "unit": "Science Unit / Ka Unit",
+      "category": "Independent",
+      "status": "Application Ongoing",
+      "circularPublished": "Yes — 05-Nov-2026",
+      "appStart": "2026-11-11",
+      "appClose": "2026-11-28",
+      "fee": "1,200",
+      "examDate": "2026-12-12",
+      "examTime": "11:00–12:30",
+      "examStartTime": "11:00",
+      "centres": "Dhaka + 7 divisional regions",
+      "admitCard": "02-Dec-2026 to 12-Dec-2026",
+      "admitStart": "2026-12-02",
+      "admitEnd": "2026-12-12",
+      "resultDate": null,
+      "eligibility": "SSC 2021-2024, HSC 2026 only, no second-timers; Science ≥3.50 each, combined ≥8.00 incl. 4th subject",
+      "website": "https://admission.eis.du.ac.bd",
+      "circularLink": null,
+      "notes": "Application extended from 25-Nov to 28-Nov-2026. Admit 02-Dec-2026 15:00 to 12-Dec-2026 10:00. High Court suspension 18-Nov-2026 was stayed by Appellate Division 23-Nov-2026 — DU confirmed test proceeds.",
+      "gpaRule": {
+        "sscYears": [
+          2021,
+          2022,
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2026
+        ],
+        "sscMin": 3.5,
+        "hscMin": 3.5,
+        "combinedMin": 8.0,
+        "secondTime": false
+      }
+    },
+    {
+      "id": 2,
+      "name": "DGME — Unified Medical Admission (MBBS)",
+      "unit": "MBBS",
+      "category": "Medical & Dental",
+      "status": "Exam Date Announced",
+      "circularPublished": null,
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2026-12-18",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "Not Finalised — BMDC considering slight GPA reduction; amount not disclosed",
+      "website": "https://dgme.gov.bd",
+      "circularLink": null,
+      "notes": "DGME DG said 24-Nov-2026 he hoped to publish the circular 'tomorrow' (25-Nov-2026) — expected, NOT published. Original date 04-Dec-2026 postponed to 18-Dec-2026. 2025-26 baseline (combined ≥8.50, each ≥4.00, Biology ≥3.50; fee 1,000) is NOT confirmed for 2026-27.",
+      "gpaRule": null
+    },
+    {
+      "id": 3,
+      "name": "DGME — Unified Medical Admission (BDS)",
+      "unit": "BDS",
+      "category": "Medical & Dental",
+      "status": "Exam Date Announced",
+      "circularPublished": null,
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2026-12-18",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "Not Finalised — same unified eligibility as MBBS",
+      "website": "https://dgme.gov.bd",
+      "circularLink": null,
+      "notes": "Same unified test, circular and application as MBBS; same day and same question paper. Govt BDS seats 545 in 2025-26 — not confirmed for 2026-27.",
+      "gpaRule": null
+    },
+    {
+      "id": 4,
+      "name": "Jagannath University (JnU)",
+      "unit": "Unit A — Science",
+      "category": "Independent",
+      "status": "Circular Published",
+      "circularPublished": "Yes — 11-Nov-2026",
+      "appStart": "2026-11-25",
+      "appClose": "2026-12-10",
+      "fee": "1,200",
+      "examDate": "2027-01-01",
+      "examTime": "10:00–11:00",
+      "examStartTime": "10:00",
+      "centres": "Dhaka (reported)",
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "SSC 2023 or 2024, HSC 2026 only, no second-timers; combined ≥7.00, ≥3.00 each",
+      "website": "https://admission.jnu.ac.bd",
+      "circularLink": null,
+      "notes": "Application opens 25-Nov-2026. Supersedes Aug-2026 announcement.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2026
+        ],
+        "sscMin": 3.0,
+        "hscMin": 3.0,
+        "combinedMin": 7.0,
+        "secondTime": false
+      }
+    },
+    {
+      "id": 5,
+      "name": "Agriculture Cluster (Krishi Guccho) — 9 universities",
+      "unit": "Agriculture / Veterinary / Fisheries (combined test)",
+      "category": "Agriculture Cluster",
+      "status": "Circular Published",
+      "circularPublished": "Yes — 19-Nov-2026",
+      "appStart": "2026-11-25",
+      "appClose": "2026-12-15",
+      "fee": "1,600",
+      "examDate": "2027-01-02",
+      "examTime": "11:00–12:00",
+      "examStartTime": "11:00",
+      "centres": "All 9 member universities",
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "SSC 2022/2023/2024, HSC 2025/2026 Science with Biology, Chemistry, Physics, Maths; GPA ≥4.00 each, combined ≥8.00",
+      "website": "https://acas.edu.bd",
+      "circularLink": null,
+      "notes": "CONFLICT: Samakal / Bangladesh Today report exam 03-Jan-2027, fee 1,200, seats 3,805 — majority reports 02-Jan-2027, 1,600, 3,795. UGC 09-Nov-2026 guidance was for tests from Feb 2027 — date may be revised. Coordinator: SAU. acas.edu.bd returned 503 on 24-Nov-2026, so circular PDF could not be verified directly.",
+      "gpaRule": {
+        "sscYears": [
+          2022,
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "sscMin": 4.0,
+        "hscMin": 4.0,
+        "combinedMin": 8.0,
+        "secondTime": true,
+        "requiredSubjects": [
+          "biology",
+          "chemistry",
+          "physics",
+          "math"
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "name": "KUET — Khulna University of Engineering & Technology",
+      "unit": "Engineering",
+      "category": "Engineering",
+      "status": "Application Ongoing",
+      "circularPublished": "Yes — 03-Nov-2026",
+      "appStart": "2026-11-10",
+      "appClose": "2026-12-10",
+      "fee": "1,500 (Khulna) / 1,800 (Dhaka, Rajshahi)",
+      "examDate": "2027-01-08",
+      "examTime": "09:30–12:30",
+      "examStartTime": "09:30",
+      "centres": "Khulna, Dhaka, Rajshahi",
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": "2027-01-21",
+      "eligibility": "SSC 2023/2024 GPA ≥4.00; HSC 2026 — Maths, Physics, Chemistry, English each ≥4.00, combined ≥16.00",
+      "website": "https://admission.kuet.ac.bd",
+      "circularLink": "https://admission.kuet.ac.bd",
+      "notes": "CONFLICT: Daily Campus reports exam 09-Jan-2027 and result 22-Jan-2027; official portal says 08-Jan-2027 / 21-Jan-2027 — use portal. Eligible list 20-Dec-2026; seats 1,105.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2026
+        ],
+        "sscMin": 4.0,
+        "subjectCombined": {
+          "subjects": [
+            "math",
+            "physics",
+            "chemistry",
+            "english"
+          ],
+          "min": 16.0,
+          "eachMin": 4.0
+        },
+        "secondTime": false
+      }
+    },
+    {
+      "id": 7,
+      "name": "Jahangirnagar University (JU)",
+      "unit": "A Unit — Mathematical & Physical Sciences",
+      "category": "Independent",
+      "status": "Application Ongoing",
+      "circularPublished": "Yes — 17-Nov-2026",
+      "appStart": "2026-11-22",
+      "appClose": "2026-12-15",
+      "fee": "800 + 1.2% service charge",
+      "examDate": "2027-01-10",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": "JU campus, Savar (reported)",
+      "admitCard": "From 25-Dec-2026",
+      "admitStart": "2026-12-25",
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "SSC 2023/2024, HSC 2025/2026; combined ≥7.50, ≥3.50 each incl. 4th subject",
+      "website": "https://admission.juniv.edu",
+      "circularLink": "https://bachelor.ju-admission.com/uploads/notice/22_18_11_26_09_17_15document.pdf",
+      "notes": "Exam date is a TENTATIVE WINDOW only: 10-21 Jan 2027 (excl. Fri/Sat/govt holidays); final date Not Announced. Result within 7 days of exam. Seats 424.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "sscMin": 3.5,
+        "hscMin": 3.5,
+        "combinedMin": 7.5,
+        "secondTime": true
+      }
+    },
+    {
+      "id": 8,
+      "name": "Jahangirnagar University (JU)",
+      "unit": "D Unit — Biological Sciences",
+      "category": "Independent",
+      "status": "Application Ongoing",
+      "circularPublished": "Yes — 17-Nov-2026",
+      "appStart": "2026-11-22",
+      "appClose": "2026-12-15",
+      "fee": "800 + 1.2% service charge",
+      "examDate": "2027-01-10",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": "JU campus, Savar (reported)",
+      "admitCard": "From 25-Dec-2026",
+      "admitStart": "2026-12-25",
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "SSC 2023/2024, HSC 2025/2026; combined ≥8.00, ≥3.50 each incl. 4th subject",
+      "website": "https://admission.juniv.edu",
+      "circularLink": "https://bachelor.ju-admission.com/uploads/notice/22_18_11_26_09_17_15document.pdf",
+      "notes": "Exam date is a TENTATIVE WINDOW only: 10-21 Jan 2027; final date Not Announced. Result within 7 days of exam. Seats 316.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "sscMin": 3.5,
+        "hscMin": 3.5,
+        "combinedMin": 8.0,
+        "secondTime": true
+      }
+    },
+    {
+      "id": 9,
+      "name": "Shahjalal University of Science and Technology (SUST)",
+      "unit": "Units A (Science) / B",
+      "category": "Independent",
+      "status": "Exam Date Announced",
+      "circularPublished": "No — test-date notices only",
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2027-01-17",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": null,
+      "website": "https://admission.sust.edu.bd",
+      "circularLink": null,
+      "notes": "Exam window 17-18 Jan 2027, rescheduled from 26-27 Jan 2027. Unit allocation and time Not Announced. Fee figures circulating (1,200-1,400) are previous-session figures.",
+      "gpaRule": null
+    },
+    {
+      "id": 10,
+      "name": "Bangladesh University of Professionals (BUP)",
+      "unit": "FST / FET / FMS — Science",
+      "category": "Independent",
+      "status": "Circular Published",
+      "circularPublished": "Yes — 17-Nov-2026",
+      "appStart": "2026-12-01",
+      "appClose": "2027-01-05",
+      "fee": "1,200 per faculty",
+      "examDate": "2027-01-22",
+      "examTime": "10:30–11:30",
+      "examStartTime": "10:30",
+      "centres": "Dhaka city only",
+      "admitCard": "From 11-Jan-2027",
+      "admitStart": "2027-01-11",
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "HSC 2025 or 2026, Science only, total GPA ≥9.00",
+      "website": "https://admission.bup.edu.bd",
+      "circularLink": null,
+      "notes": "Eligible list 10-Jan-2027. CONFLICT: Daily Campus reports FMS (Pharmacy) on 23-Jan-2027 15:30; circular reproductions group FST/FET/FMS on 22-Jan-2027.",
+      "gpaRule": {
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "combinedMin": 9.0,
+        "secondTime": true
+      }
+    },
+    {
+      "id": 11,
+      "name": "CUET — Chittagong University of Engineering & Technology",
+      "unit": "Engineering (Ka / Kha)",
+      "category": "Engineering",
+      "status": "Not Yet Announced",
+      "circularPublished": null,
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2027-01-23",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": null,
+      "website": "https://www.cuet.ac.bd",
+      "circularLink": null,
+      "notes": "Exam date 23-Jan-2027 is TENTATIVE / PROBABLE only (announced 19-Sep-2026, pending Academic Council approval). Seats 931 is a 2024-25 figure — not confirmed for 2026-27.",
+      "gpaRule": null
+    },
+    {
+      "id": 12,
+      "name": "Hajee Mohammad Danesh Science & Technology University (HSTU)",
+      "unit": "Units A & B (Science)",
+      "category": "Independent",
+      "status": "Exam Date Announced",
+      "circularPublished": null,
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2027-01-24",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": null,
+      "website": "https://hstu.ac.bd",
+      "circularLink": null,
+      "notes": "Exam window 24-28 Jan 2027. Unit-wise dates and time Not Announced. Prior-year fee 1,000 is not a 2026-27 figure.",
+      "gpaRule": null
+    },
+    {
+      "id": 13,
+      "name": "RUET — Rajshahi University of Engineering & Technology",
+      "unit": "Engineering",
+      "category": "Engineering",
+      "status": "Exam Date Announced",
+      "circularPublished": null,
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2027-01-28",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": "RUET, Rajshahi and BUET, Dhaka",
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "SSC 2023/2024 GPA ≥4.00; HSC 2026 — Maths+Physics+Chemistry combined ≥13.00, ≥4.00 each",
+      "website": "https://www.ruet.ac.bd",
+      "circularLink": null,
+      "notes": "Date announced 18-Nov-2026 by Steering Committee; no 2026-27 circular found on ruet.ac.bd as of 24-Nov-2026; moved from 14-Jan-2027; shortlist top 18,000; seats 1,235.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2026
+        ],
+        "sscMin": 4.0,
+        "subjectCombined": {
+          "subjects": [
+            "math",
+            "physics",
+            "chemistry"
+          ],
+          "min": 13.0,
+          "eachMin": 4.0
+        },
+        "secondTime": false
+      }
+    },
+    {
+      "id": 14,
+      "name": "BUTEX — Bangladesh University of Textiles",
+      "unit": "B.Sc. in Textile Engineering",
+      "category": "Engineering",
+      "status": "Circular Published",
+      "circularPublished": "Yes — 19-Nov-2026",
+      "appStart": "2026-12-01",
+      "appClose": "2027-01-10",
+      "fee": "300 + 1,200 (shortlisted only)",
+      "examDate": "2027-01-29",
+      "examTime": "10:00–12:00",
+      "examStartTime": "10:00",
+      "centres": "BUTEX campus, Tejgaon, Dhaka",
+      "admitCard": "17-Jan-2027 to 28-Jan-2027",
+      "admitStart": "2027-01-17",
+      "admitEnd": "2027-01-28",
+      "resultDate": "2027-02-15",
+      "eligibility": "HSC 2026 only, no second-time; SSC & HSC GPA ≥4.00; Maths+Physics+Chemistry+English combined ≥16.50, ≥3.50 each",
+      "website": "https://www.butex.edu.bd",
+      "circularLink": "https://www.butex.edu.bd/bsc-in-textile-engineering-undergraduate-admission-l1-t1-2026-27-circular/",
+      "notes": "CONFLICT: closing date 10-Jan-2027 per circular image vs 01-Jan-2027 per MyResult; admit window 17-28 Jan vs 17-24 Jan in secondary summaries — verify on butex.edu.bd. Eligible list 15-Jan-2027 (top 14,000); seats 630.",
+      "gpaRule": {
+        "hscYears": [
+          2026
+        ],
+        "sscMin": 4.0,
+        "hscMin": 4.0,
+        "subjectCombined": {
+          "subjects": [
+            "math",
+            "physics",
+            "chemistry",
+            "english"
+          ],
+          "min": 16.5,
+          "eachMin": 3.5
+        },
+        "secondTime": false
+      }
+    },
+    {
+      "id": 15,
+      "name": "University of Chittagong (CU)",
+      "unit": "A Unit — Science",
+      "category": "Independent",
+      "status": "Exam Date Announced",
+      "circularPublished": "No — schedule notice only, 23-Aug-2026",
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2027-01-30",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": "CU campus (Chattogram), DU campus (Dhaka), RU campus (Rajshahi)",
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "Reported only — SSC 2023/2024, HSC 2025/2026, combined ≥8.00, SSC ≥4.00, HSC ≥3.00 — confirm in full circular",
+      "website": "https://admission.cu.ac.bd",
+      "circularLink": null,
+      "notes": "CONFLICT: application start 10-Dec-2026 (Prothom Alo / Daily Star) vs 20-Dec-2026 (TBS) to 10-Jan-2027 — unresolved 24-Nov-2026; portal under maintenance. Exam 30-Jan-2027 is probable, not in a full circular. Fee Not Announced (1,000 is the 2025-26 fee).",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "sscMin": 4.0,
+        "hscMin": 3.0,
+        "combinedMin": 8.0,
+        "secondTime": true,
+        "reportedOnly": true
+      }
+    },
+    {
+      "id": 16,
+      "name": "BUET — Bangladesh University of Engineering & Technology",
+      "unit": "Engineering (Group A / B)",
+      "category": "Engineering",
+      "status": "Circular Published",
+      "circularPublished": "Yes — 22-Nov-2026",
+      "appStart": "2026-12-01",
+      "appClose": "2027-01-07",
+      "fee": "1,500 (Group A) / 2,000 (Group B)",
+      "examDate": "2027-02-01",
+      "examTime": "Module A 09:00–12:00; Module B 14:30–16:00",
+      "examStartTime": "09:00",
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": "2027-02-28",
+      "eligibility": "SSC 2023/2024 GPA ≥4.00; HSC 2026 GPA 5.00, and 5.00 in Maths, Physics, Chemistry",
+      "website": "https://www.buet.ac.bd",
+      "circularLink": null,
+      "notes": "Eligible list 16-Jan-2027; fee payment to 08-Jan-2027 15:00; shortlist top 10,000; seats 1,309; exam moved from 16-Jan-2027.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2026
+        ],
+        "sscMin": 4.0,
+        "hscMin": 5.0,
+        "subjectEach": {
+          "subjects": [
+            "math",
+            "physics",
+            "chemistry"
+          ],
+          "min": 5.0
+        },
+        "secondTime": false
+      }
+    },
+    {
+      "id": 17,
+      "name": "Khulna University (KU)",
+      "unit": "Units A (Science, Engineering & Technology) & B (Life Science)",
+      "category": "Independent",
+      "status": "Exam Date Announced",
+      "circularPublished": "No — test-date notice only",
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2027-02-04",
+      "examTime": null,
+      "examStartTime": "11:00",
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": null,
+      "website": "https://www.ku.ac.bd",
+      "circularLink": null,
+      "notes": "Originally 17-18 Dec 2026, rescheduled 10-Nov-2026 to 04-Feb-2027 (A & B); C & D 05-Feb-2027. Full circular not published; detailed info to be published later.",
+      "gpaRule": null
+    },
+    {
+      "id": 18,
+      "name": "MIST — Military Institute of Science & Technology",
+      "unit": "Unit A (Engineering) / Unit B (Architecture) / Unit C (Science)",
+      "category": "Engineering",
+      "status": "Circular Published",
+      "circularPublished": "Yes — 19-Nov-2026",
+      "appStart": "2027-01-05",
+      "appClose": "2027-01-21",
+      "fee": "Unit A 1,300; Unit A+B 1,500; Unit C 1,100",
+      "examDate": "2027-02-05",
+      "examTime": "Unit C 10:00–11:00; Unit A 09:00–12:00; Unit B 14:00–16:00",
+      "examStartTime": "10:00",
+      "centres": "Dhaka only (MIST, Mirpur Cantonment)",
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "Unit A/B: SSC 2023/2024 GPA ≥4.00; HSC 2025/2026 Maths+Physics+Chemistry combined ≥12.00, ≥3.50 each; Unit C: SSC & HSC ≥3.50",
+      "website": "https://admission.mist.ac.bd",
+      "circularLink": "https://www.mist.ac.bd",
+      "notes": "Unit C exam 05-Feb-2027; Unit A/B exam 06-Feb-2027. Eligible list 25-Jan-2027; seats Not Announced.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "sscMin": 4.0,
+        "subjectCombined": {
+          "subjects": [
+            "math",
+            "physics",
+            "chemistry"
+          ],
+          "min": 12.0,
+          "eachMin": 3.5
+        },
+        "secondTime": true,
+        "note": "Unit C-এর ক্ষেত্রে SSC ও HSC উভয়েই GPA ৩.৫০ প্রয়োজন"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Comilla University (CoU)",
+      "unit": "Unit A — Science & Engineering",
+      "category": "Independent",
+      "status": "Exam Date Announced",
+      "circularPublished": "No — committee decision 11-Nov-2026 only",
+      "appStart": "2026-12-10",
+      "appClose": "2026-12-31",
+      "fee": null,
+      "examDate": "2027-02-05",
+      "examTime": "11:00–12:00",
+      "examStartTime": "11:00",
+      "centres": "Cumilla, Chattogram, Rajshahi (reported)",
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": null,
+      "website": "https://www.cou.ac.bd",
+      "circularLink": null,
+      "notes": "Application 10-31 Dec 2026 is REPORTED (some posts say 10-30 Dec) — not in a full circular. Centres reported, Dhaka unconfirmed.",
+      "gpaRule": null
+    },
+    {
+      "id": 20,
+      "name": "University of Rajshahi (RU)",
+      "unit": "C Unit — Science",
+      "category": "Independent",
+      "status": "Application Ongoing",
+      "circularPublished": "Yes — 12-Nov-2026",
+      "appStart": "2026-11-15",
+      "appClose": "2026-11-30",
+      "fee": "1,320",
+      "examDate": "2027-02-13",
+      "examTime": "Shift 1: 11:00–12:00; Shift 2: 14:00–15:00",
+      "examStartTime": "11:00",
+      "centres": "Rajshahi, Dhaka, Chattogram, Khulna, Rangpur, Sylhet, Mymensingh, Barishal",
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "HSC 2025 or 2026; Science ≥3.50 in SSC and HSC incl. 4th subject, total ≥7.50",
+      "website": "https://admission.ru.ac.bd",
+      "circularLink": null,
+      "notes": "C Unit rescheduled to 13-Feb-2027 (B Unit 12-Feb, A Unit 20-Feb). Supplementary / re-scrutiny 2026 HSC passers may apply within 7 days of their result.",
+      "gpaRule": {
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "sscMin": 3.5,
+        "hscMin": 3.5,
+        "combinedMin": 7.5,
+        "secondTime": true
+      }
+    },
+    {
+      "id": 21,
+      "name": "GST Cluster — General, Science & Technology (20 universities)",
+      "unit": "A Unit — Science",
+      "category": "GST Cluster",
+      "status": "Exam Date Announced",
+      "circularPublished": null,
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": "2027-03-27",
+      "examTime": "11:00–12:00",
+      "examStartTime": "11:00",
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": null,
+      "website": "https://gstadmission.ac.bd",
+      "circularLink": null,
+      "notes": "Exam date announced after VC meeting 17-Sep-2026; full circular NOT published — application dates, fee, GPA and centres to come later via circular. B Unit 19-Mar-2027, C & D Units 20-Mar-2027. Total seats 16,093 across 20 universities. Coordinator: PSTU. gstadmission.ac.bd returned 403 on 24-Nov-2026.",
+      "gpaRule": null
+    },
+    {
+      "id": 22,
+      "name": "DUET — Dhaka University of Engineering & Technology, Gazipur",
+      "unit": "B.Sc. Engineering / B.Arch.",
+      "category": "Engineering",
+      "status": "Not Yet Announced",
+      "circularPublished": null,
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": null,
+      "examTime": null,
+      "examStartTime": null,
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": "Diploma-only: Diploma in Engineering holders only; HSC Science does NOT qualify",
+      "website": "https://www.duet.ac.bd",
+      "circularLink": null,
+      "notes": "NOT an HSC route. Latest on duet.ac.bd is Admission Test 2026, Session 2025-26 prospectus. Do not use HSC dates/fees from aggregator sites.",
+      "gpaRule": {
+        "diplomaOnly": true
+      }
+    },
+    {
+      "id": 23,
+      "name": "AFMC — Armed Forces Medical College",
+      "unit": "MBBS",
+      "category": "Medical & Dental",
+      "status": "Not Yet Announced",
+      "circularPublished": null,
+      "appStart": null,
+      "appClose": null,
+      "fee": null,
+      "examDate": null,
+      "examTime": null,
+      "examStartTime": null,
+      "centres": null,
+      "admitCard": null,
+      "admitStart": null,
+      "admitEnd": null,
+      "resultDate": null,
+      "eligibility": null,
+      "website": "https://afmc.edu.bd",
+      "circularLink": null,
+      "notes": "Government-run, BUP degree; combined AFMC / Army Medical Colleges test. 2026-27 circular not published as of 24-Nov-2026.",
+      "gpaRule": null
+    }
+  ],
+  "universities": [
+    {
+      "id": 1,
+      "name": "Bangladesh University of Engineering & Technology",
+      "shortName": "BUET",
+      "location": "Dhaka",
+      "system": "Engineering",
+      "unit": "Engineering (Group A / B)",
+      "status": "Circular Published",
+      "seats": 1309,
+      "website": "https://www.buet.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 2,
+      "name": "Khulna University of Engineering & Technology",
+      "shortName": "KUET",
+      "location": "Khulna",
+      "system": "Engineering",
+      "unit": "Engineering",
+      "status": "Application Ongoing",
+      "seats": 1105,
+      "website": "https://admission.kuet.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 3,
+      "name": "Rajshahi University of Engineering & Technology",
+      "shortName": "RUET",
+      "location": "Rajshahi",
+      "system": "Engineering",
+      "unit": "Engineering",
+      "status": "Exam Date Announced",
+      "seats": 1235,
+      "website": "https://www.ruet.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 4,
+      "name": "Chittagong University of Engineering & Technology",
+      "shortName": "CUET",
+      "location": "Chattogram",
+      "system": "Engineering",
+      "unit": "Engineering (Ka / Kha)",
+      "status": "Not Yet Announced",
+      "seats": null,
+      "website": "https://www.cuet.ac.bd",
+      "notes": "Seats 931 is 2024-25, not confirmed 2026-27"
+    },
+    {
+      "id": 5,
+      "name": "Dhaka University of Engineering & Technology, Gazipur",
+      "shortName": "DUET",
+      "location": "Gazipur",
+      "system": "Engineering",
+      "unit": "B.Sc. Engineering / B.Arch.",
+      "status": "Not Yet Announced",
+      "seats": null,
+      "website": "https://www.duet.ac.bd",
+      "notes": "Diploma-only — not an HSC route"
+    },
+    {
+      "id": 6,
+      "name": "Bangladesh University of Textiles",
+      "shortName": "BUTEX",
+      "location": "Dhaka",
+      "system": "Engineering",
+      "unit": "B.Sc. in Textile Engineering",
+      "status": "Circular Published",
+      "seats": 630,
+      "website": "https://www.butex.edu.bd",
+      "notes": null
+    },
+    {
+      "id": 7,
+      "name": "Military Institute of Science & Technology",
+      "shortName": "MIST",
+      "location": "Dhaka",
+      "system": "Engineering",
+      "unit": "Unit A / B / C",
+      "status": "Circular Published",
+      "seats": null,
+      "website": "https://admission.mist.ac.bd",
+      "notes": "Seats Not Announced"
+    },
+    {
+      "id": 8,
+      "name": "DGME — Unified Medical Admission (MBBS)",
+      "shortName": "DGME MBBS",
+      "location": "Nationwide",
+      "system": "Medical & Dental",
+      "unit": "MBBS",
+      "status": "Exam Date Announced",
+      "seats": null,
+      "website": "https://dgme.gov.bd",
+      "notes": "System, not a university — covers govt + private medical colleges"
+    },
+    {
+      "id": 9,
+      "name": "DGME — Unified Medical Admission (BDS)",
+      "shortName": "DGME BDS",
+      "location": "Nationwide",
+      "system": "Medical & Dental",
+      "unit": "BDS",
+      "status": "Exam Date Announced",
+      "seats": null,
+      "website": "https://dgme.gov.bd",
+      "notes": "System, not a university — covers govt + private dental colleges/units"
+    },
+    {
+      "id": 10,
+      "name": "Armed Forces Medical College",
+      "shortName": "AFMC",
+      "location": "Dhaka",
+      "system": "Medical & Dental",
+      "unit": "MBBS",
+      "status": "Not Yet Announced",
+      "seats": null,
+      "website": "https://afmc.edu.bd",
+      "notes": "Govt-run, BUP degree"
+    },
+    {
+      "id": 11,
+      "name": "Bangladesh Agricultural University",
+      "shortName": "BAU",
+      "location": "Mymensingh",
+      "system": "Agriculture Cluster",
+      "unit": "Agriculture",
+      "status": "Circular Published",
+      "seats": 1066,
+      "website": "https://acas.edu.bd",
+      "notes": "Cluster test 02-Jan-2027"
+    },
+    {
+      "id": 12,
+      "name": "Gazipur Agricultural University",
+      "shortName": "GAU",
+      "location": "Gazipur",
+      "system": "Agriculture Cluster",
+      "unit": "Agriculture",
+      "status": "Circular Published",
+      "seats": 510,
+      "website": "https://acas.edu.bd",
+      "notes": "Formerly BSMRAU"
+    },
+    {
+      "id": 13,
+      "name": "Sher-e-Bangla Agricultural University",
+      "shortName": "SAU",
+      "location": "Dhaka",
+      "system": "Agriculture Cluster",
+      "unit": "Agriculture",
+      "status": "Circular Published",
+      "seats": 705,
+      "website": "https://acas.edu.bd",
+      "notes": "Cluster coordinator 2026-27"
+    },
+    {
+      "id": 14,
+      "name": "Patuakhali Science and Technology University",
+      "shortName": "PSTU",
+      "location": "Patuakhali",
+      "system": "Agriculture Cluster",
+      "unit": "Agriculture",
+      "status": "Circular Published",
+      "seats": 473,
+      "website": "https://acas.edu.bd",
+      "notes": "Also in GST Cluster for non-agri faculties — see GST list; counted once in distinct-university total"
+    },
+    {
+      "id": 15,
+      "name": "Chattogram Veterinary and Animal Sciences University",
+      "shortName": "CVASU",
+      "location": "Chattogram",
+      "system": "Agriculture Cluster",
+      "unit": "Veterinary / Animal Sciences",
+      "status": "Circular Published",
+      "seats": 275,
+      "website": "https://acas.edu.bd",
+      "notes": null
+    },
+    {
+      "id": 16,
+      "name": "Sylhet Agricultural University",
+      "shortName": "SyAU",
+      "location": "Sylhet",
+      "system": "Agriculture Cluster",
+      "unit": "Agriculture",
+      "status": "Circular Published",
+      "seats": 431,
+      "website": "https://acas.edu.bd",
+      "notes": null
+    },
+    {
+      "id": 17,
+      "name": "Khulna Agricultural University",
+      "shortName": "KAU",
+      "location": "Khulna",
+      "system": "Agriculture Cluster",
+      "unit": "Agriculture",
+      "status": "Circular Published",
+      "seats": 150,
+      "website": "https://acas.edu.bd",
+      "notes": null
+    },
+    {
+      "id": 18,
+      "name": "Habiganj Agricultural University",
+      "shortName": "HAU",
+      "location": "Habiganj",
+      "system": "Agriculture Cluster",
+      "unit": "Agriculture",
+      "status": "Circular Published",
+      "seats": 99,
+      "website": "https://acas.edu.bd",
+      "notes": null
+    },
+    {
+      "id": 19,
+      "name": "Kurigram Agricultural University",
+      "shortName": "Kurigram AU",
+      "location": "Kurigram",
+      "system": "Agriculture Cluster",
+      "unit": "Agriculture",
+      "status": "Circular Published",
+      "seats": 86,
+      "website": "https://acas.edu.bd",
+      "notes": null
+    },
+    {
+      "id": 20,
+      "name": "Islamic University, Kushtia",
+      "shortName": "IU",
+      "location": "Kushtia",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 2515,
+      "website": "https://gstadmission.ac.bd",
+      "notes": "GST total seats 16,093"
+    },
+    {
+      "id": 21,
+      "name": "Mawlana Bhashani Science and Technology University",
+      "shortName": "MBSTU",
+      "location": "Tangail",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 875,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 22,
+      "name": "Patuakhali Science and Technology University",
+      "shortName": "PSTU",
+      "location": "Patuakhali",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 950,
+      "website": "https://gstadmission.ac.bd",
+      "notes": "GST seat pool (all units); agri faculties via Agriculture Cluster — duplicate university, different seat pool"
+    },
+    {
+      "id": 23,
+      "name": "Noakhali Science and Technology University",
+      "shortName": "NSTU",
+      "location": "Noakhali",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 1611,
+      "website": "https://gstadmission.ac.bd",
+      "notes": "Joint convener (VC, NSTU)"
+    },
+    {
+      "id": 24,
+      "name": "Jatiya Kabi Kazi Nazrul Islam University",
+      "shortName": "JKKNIU",
+      "location": "Trishal, Mymensingh",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 1175,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 25,
+      "name": "Jashore University of Science and Technology",
+      "shortName": "JUST",
+      "location": "Jashore",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 1030,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 26,
+      "name": "Pabna University of Science and Technology",
+      "shortName": "PUST",
+      "location": "Pabna",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 830,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 27,
+      "name": "Begum Rokeya University, Rangpur",
+      "shortName": "BRUR",
+      "location": "Rangpur",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 1395,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 28,
+      "name": "Gopalganj Science and Technology University",
+      "shortName": "GSTU",
+      "location": "Gopalganj",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 1580,
+      "website": "https://gstadmission.ac.bd",
+      "notes": "Formerly BSMRSTU"
+    },
+    {
+      "id": 29,
+      "name": "University of Barishal",
+      "shortName": "BU",
+      "location": "Barishal",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 1570,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 30,
+      "name": "Rangamati Science and Technology University",
+      "shortName": "RMSTU",
+      "location": "Rangamati",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 190,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 31,
+      "name": "Rabindra University, Bangladesh",
+      "shortName": "RUB",
+      "location": "Sirajganj",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 850,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 32,
+      "name": "Bangladesh University of Frontier Technology",
+      "shortName": "BUFT",
+      "location": "Gazipur",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 220,
+      "website": "https://gstadmission.ac.bd",
+      "notes": "Formerly Gazipur Digital University"
+    },
+    {
+      "id": 33,
+      "name": "Netrokona University",
+      "shortName": "Netrokona Univ.",
+      "location": "Netrokona",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 390,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 34,
+      "name": "Jamalpur Science and Technology University",
+      "shortName": "JSTU",
+      "location": "Jamalpur",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 204,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 35,
+      "name": "Chandpur Science and Technology University",
+      "shortName": "CSTU",
+      "location": "Chandpur",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 90,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 36,
+      "name": "Kishoreganj University",
+      "shortName": "Kishoreganj Univ.",
+      "location": "Kishoreganj",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 126,
+      "website": "https://gstadmission.ac.bd",
+      "notes": "Bangabandhu Sheikh Mujibur Rahman University, Kishoreganj"
+    },
+    {
+      "id": 37,
+      "name": "Sunamganj Science and Technology University",
+      "shortName": "SSTU",
+      "location": "Sunamganj",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 172,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 38,
+      "name": "Pirojpur Science and Technology University",
+      "shortName": "PSTU Pirojpur",
+      "location": "Pirojpur",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 160,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 39,
+      "name": "Naogaon University",
+      "shortName": "Naogaon Univ.",
+      "location": "Naogaon",
+      "system": "GST Cluster",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": 160,
+      "website": "https://gstadmission.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 40,
+      "name": "University of Dhaka",
+      "shortName": "DU",
+      "location": "Dhaka",
+      "system": "Independent",
+      "unit": "Science Unit / Ka Unit",
+      "status": "Application Ongoing",
+      "seats": null,
+      "website": "https://admission.eis.du.ac.bd",
+      "notes": "Seats 1,891 reported, not verified on portal"
+    },
+    {
+      "id": 41,
+      "name": "University of Rajshahi",
+      "shortName": "RU",
+      "location": "Rajshahi",
+      "system": "Independent",
+      "unit": "C Unit — Science",
+      "status": "Application Ongoing",
+      "seats": null,
+      "website": "https://admission.ru.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 42,
+      "name": "University of Chittagong",
+      "shortName": "CU",
+      "location": "Chattogram",
+      "system": "Independent",
+      "unit": "A Unit — Science",
+      "status": "Exam Date Announced",
+      "seats": null,
+      "website": "https://admission.cu.ac.bd",
+      "notes": "Full circular not published"
+    },
+    {
+      "id": 43,
+      "name": "Jahangirnagar University",
+      "shortName": "JU",
+      "location": "Savar, Dhaka",
+      "system": "Independent",
+      "unit": "A Unit & D Unit",
+      "status": "Application Ongoing",
+      "seats": null,
+      "website": "https://admission.juniv.edu",
+      "notes": "A 424 + D 316 seats"
+    },
+    {
+      "id": 44,
+      "name": "Bangladesh University of Professionals",
+      "shortName": "BUP",
+      "location": "Dhaka",
+      "system": "Independent",
+      "unit": "FST / FET / FMS",
+      "status": "Circular Published",
+      "seats": null,
+      "website": "https://admission.bup.edu.bd",
+      "notes": null
+    },
+    {
+      "id": 45,
+      "name": "Jagannath University",
+      "shortName": "JnU",
+      "location": "Dhaka",
+      "system": "Independent",
+      "unit": "Unit A — Science",
+      "status": "Circular Published",
+      "seats": null,
+      "website": "https://admission.jnu.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 46,
+      "name": "Khulna University",
+      "shortName": "KU",
+      "location": "Khulna",
+      "system": "Independent",
+      "unit": "Units A & B",
+      "status": "Exam Date Announced",
+      "seats": null,
+      "website": "https://www.ku.ac.bd",
+      "notes": null
+    },
+    {
+      "id": 47,
+      "name": "Shahjalal University of Science and Technology",
+      "shortName": "SUST",
+      "location": "Sylhet",
+      "system": "Independent",
+      "unit": "Units A / B",
+      "status": "Exam Date Announced",
+      "seats": null,
+      "website": "https://admission.sust.edu.bd",
+      "notes": "Not in GST 2026-27"
+    },
+    {
+      "id": 48,
+      "name": "Hajee Mohammad Danesh Science & Technology University",
+      "shortName": "HSTU",
+      "location": "Dinajpur",
+      "system": "Independent",
+      "unit": "Units A & B",
+      "status": "Exam Date Announced",
+      "seats": null,
+      "website": "https://hstu.ac.bd",
+      "notes": "Not in GST 2026-27"
+    },
+    {
+      "id": 49,
+      "name": "Comilla University",
+      "shortName": "CoU",
+      "location": "Cumilla",
+      "system": "Independent",
+      "unit": "Unit A — Science & Engineering",
+      "status": "Exam Date Announced",
+      "seats": null,
+      "website": "https://www.cou.ac.bd",
+      "notes": "Not in GST 2026-27"
+    }
+  ],
+  "sources": [
+    {
+      "system": "Engineering — BUET",
+      "source": "Prothom Alo (EN), 23-Nov-2026",
+      "url": "https://en.prothomalo.com/youth/education/fxxhkdlchm",
+      "verified": "BUET circular, app 01-Dec-2026–07-Jan-2027, test 01-Feb-2027, 1,309 seats, GPA rules",
+      "sourceDate": "23-Nov-2026",
+      "status": "Verified — press report of circular"
+    },
+    {
+      "system": "Engineering — BUET",
+      "source": "The Daily Campus, 2026",
+      "url": "https://english.thedailycampus.com/university-admission/3965",
+      "verified": "BUET fees, Module A/B times, eligible list 16-Jan-2027, merit 28-Feb-2027",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report of circular"
+    },
+    {
+      "system": "Engineering — KUET",
+      "source": "KUET official admission portal",
+      "url": "https://admission.kuet.ac.bd",
+      "verified": "Circular 03-Nov-2026, app to 10-Dec-2026, test 08-Jan-2027, result 21-Jan-2027, 1,105 seats",
+      "sourceDate": "24-Nov-2026",
+      "status": "Verified — official portal"
+    },
+    {
+      "system": "Engineering — KUET",
+      "source": "The Daily Campus, 21-Nov-2026",
+      "url": "https://english.thedailycampus.com/university-admission/3947",
+      "verified": "KUET test reported 09-Jan-2027, merit 22-Jan-2027 — CONFLICTS with official portal",
+      "sourceDate": "21-Nov-2026",
+      "status": "Conflict flagged"
+    },
+    {
+      "system": "Engineering — RUET",
+      "source": "Prothom Alo (EN)",
+      "url": "https://en.prothomalo.com/amp/story/youth/education/o8e2qpfeax",
+      "verified": "RUET test 28-Jan-2027, centres RUET+BUET, 18,000 shortlist, GPA combined 13.00",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Engineering — RUET",
+      "source": "RUET official site",
+      "url": "https://www.ruet.ac.bd",
+      "verified": "No 2026-27 UG circular found as of 24-Nov-2026; latest listed is 2025-26",
+      "sourceDate": "24-Nov-2026",
+      "status": "Verified — official site checked"
+    },
+    {
+      "system": "Engineering — CUET",
+      "source": "CUET official news",
+      "url": "https://beta.cuet.ac.bd/news",
+      "verified": "19-Sep-2026: CUET announces date for 2026-27 test (23-Jan-2027 tentative)",
+      "sourceDate": "19-Sep-2026",
+      "status": "Verified — official news"
+    },
+    {
+      "system": "Engineering — DUET",
+      "source": "DUET official prospectus PDF",
+      "url": "https://www.duet.ac.bd/storage/admission/2026-05-14-1778738035-2061240507.pdf",
+      "verified": "Admission Test 2026, Session 2025-26, diploma-only",
+      "sourceDate": "2026",
+      "status": "Verified — official PDF"
+    },
+    {
+      "system": "Engineering — BUTEX",
+      "source": "BUTEX official circular page",
+      "url": "https://www.butex.edu.bd/bsc-in-textile-engineering-undergraduate-admission-l1-t1-2026-27-circular/",
+      "verified": "Circular 19-Nov-2026, GPA ≥4.00, combined 16.50",
+      "sourceDate": "19-Nov-2026",
+      "status": "Verified — official site"
+    },
+    {
+      "system": "Engineering — MIST",
+      "source": "MIST official notice",
+      "url": "https://co.mist.ac.bd/notice/383",
+      "verified": "Admission Notice 2026-27, 19-Nov-2026; tests 05-06 Feb 2027",
+      "sourceDate": "19-Nov-2026",
+      "status": "Verified — official notice"
+    },
+    {
+      "system": "Engineering — MIST",
+      "source": "MIST admission portal",
+      "url": "https://admission.mist.ac.bd",
+      "verified": "Application 05-21 Jan 2027, fees, Unit A/B/C dates",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — official portal"
+    },
+    {
+      "system": "Medical & Dental",
+      "source": "The Daily Star, 24-Nov-2026",
+      "url": "https://www.thedailystar.net/news/news/medical-dental-admission-tests-december-18-after-sc-order-4331041",
+      "verified": "MBBS/BDS test 18-Dec-2026 confirmed; Appellate Division stayed HC order; DG: circular hopefully tomorrow",
+      "sourceDate": "24-Nov-2026",
+      "status": "Verified — press report of DGME DG"
+    },
+    {
+      "system": "Medical & Dental",
+      "source": "DGME official site",
+      "url": "https://dgme.gov.bd",
+      "verified": "No 2026-27 MBBS/BDS circular visible as of 19-Nov-2026 crawl",
+      "sourceDate": "19-Nov-2026",
+      "status": "Verified — official site checked"
+    },
+    {
+      "system": "Medical & Dental",
+      "source": "The Daily Campus, 22-Nov-2026",
+      "url": "https://english.thedailycampus.com/university-admission/3961",
+      "verified": "Circular likely within 1-2 days; BMDC GPA may be lowered slightly, not finalised",
+      "sourceDate": "22-Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Medical & Dental — AFMC",
+      "source": "AFMC official site",
+      "url": "https://afmc.edu.bd",
+      "verified": "No 2026-27 circular found as of 24-Nov-2026",
+      "sourceDate": "24-Nov-2026",
+      "status": "Verified — official site checked"
+    },
+    {
+      "system": "Agriculture Cluster",
+      "source": "Official portal (attempted)",
+      "url": "https://acas.edu.bd",
+      "verified": "Official application/admit/result site; returned HTTP 503 on 24-Nov-2026 — circular PDF not retrieved",
+      "sourceDate": "24-Nov-2026",
+      "status": "Official site — unavailable on check"
+    },
+    {
+      "system": "Agriculture Cluster",
+      "source": "The Daily Star, 18-Nov-2026",
+      "url": "https://www.thedailystar.net/news/bangladesh/news/second-chance-hsc-not-university-admission-4326636",
+      "verified": "SAU VC coordinator, app 25-Nov–15-Dec-2026, test 02-Jan-2027, GPA relaxed 8.50 to 8.00",
+      "sourceDate": "18-Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Agriculture Cluster",
+      "source": "Dainik Shiksha, 20-Nov-2026",
+      "url": "https://www.dainikshiksha.com/bn/news/admission-test-for-the-agriculture-cluster-to-be-held-on-january-2-391012",
+      "verified": "02-Jan-2027, app dates, fee 1,600, GPA 4.00, 150-mark merit, 9 universities",
+      "sourceDate": "20-Nov-2026",
+      "status": "Verified — press report of circular"
+    },
+    {
+      "system": "Agriculture Cluster",
+      "source": "Samakal (conflicting variant)",
+      "url": "https://samakal.com/education/article/384119",
+      "verified": "Reports 03-Jan-2027, fee 1,200, seats 3,805 — conflicts with majority",
+      "sourceDate": "20-Nov-2026",
+      "status": "Conflict flagged"
+    },
+    {
+      "system": "GST Cluster",
+      "source": "Official portal (attempted)",
+      "url": "https://gstadmission.ac.bd",
+      "verified": "Official GST site; returned HTTP 403 on 24-Nov-2026 — no 2026-27 circular verified there",
+      "sourceDate": "24-Nov-2026",
+      "status": "Official site — unavailable on check"
+    },
+    {
+      "system": "GST Cluster",
+      "source": "Prothom Alo, 19-Sep-2026",
+      "url": "https://www.prothomalo.com/amp/story/education%2Fadmission%2Fapn17uej0r",
+      "verified": "Exam dates (A 27-Mar-2027), 20-university list, application info to come later via circular",
+      "sourceDate": "19-Sep-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "GST Cluster",
+      "source": "Dhaka Tribune, 14-Nov-2026",
+      "url": "https://www.dhakatribune.com/bangladesh/education/424625/gst-university-admission-seats-may-increase-to",
+      "verified": "20 universities, 16,093 seats, university-wise seat list; 4 new universities not finalised",
+      "sourceDate": "14-Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Independent — DU",
+      "source": "DU official admission portal",
+      "url": "https://admission.eis.du.ac.bd",
+      "verified": "Extension to 28-Nov-2026; Science 12-Dec-2026, admit 02-12 Dec, 8 regions",
+      "sourceDate": "24-Nov-2026",
+      "status": "Verified — official portal"
+    },
+    {
+      "system": "Independent — DU",
+      "source": "The Daily Star",
+      "url": "https://www.thedailystar.net/campus/news/dhaka-university-admission-applications-open-nov-11-2026-27-session-4238521",
+      "verified": "Committee decision, 11-25 Nov window, Science 12-Dec, GPA 8.00/3.50",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Independent — RU",
+      "source": "RU official admission portal",
+      "url": "https://admission.ru.ac.bd",
+      "verified": "2026-27 session, Science GPA 3.50/7.50",
+      "sourceDate": "24-Nov-2026",
+      "status": "Verified — official portal"
+    },
+    {
+      "system": "Independent — RU",
+      "source": "The Daily Star",
+      "url": "https://www.thedailystar.net/news/education/news/ru-admission-tests-rescheduled-february-12-include-supplementary-candidates-4320996",
+      "verified": "Rescheduled B 12-Feb, C 13-Feb, A 20-Feb; 15-30 Nov; fee 1,320",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Independent — CU",
+      "source": "CU official admission portal",
+      "url": "https://admission.cu.ac.bd",
+      "verified": "Portal under maintenance on 24-Nov-2026, still showing 2025-26",
+      "sourceDate": "24-Nov-2026",
+      "status": "Verified — official portal checked"
+    },
+    {
+      "system": "Independent — CU",
+      "source": "The Daily Star",
+      "url": "https://www.thedailystar.net/campus/news/cu-admission-applications-open-dec-10-tests-begin-jan-29-4321081",
+      "verified": "Revised app 10-Dec–10-Jan, payment to 12-Jan; tests unchanged",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Independent — JU",
+      "source": "JU official circular PDF",
+      "url": "https://bachelor.ju-admission.com/uploads/notice/22_18_11_26_09_17_15document.pdf",
+      "verified": "Circular 17-Nov-2026: 22-Nov–15-Dec, fee 800+1.2%, admit from 25-Dec, exam window 10-21 Jan 2027",
+      "sourceDate": "17-Nov-2026",
+      "status": "Verified — official circular PDF"
+    },
+    {
+      "system": "Independent — JU",
+      "source": "JU official portal",
+      "url": "https://admission.juniv.edu",
+      "verified": "Circular PDF link, helpline — verified live 24-Nov-2026",
+      "sourceDate": "24-Nov-2026",
+      "status": "Verified — official portal"
+    },
+    {
+      "system": "Independent — BUP",
+      "source": "BUP official notice list",
+      "url": "https://admission.bup.edu.bd/admission/noticeall",
+      "verified": "Item 4, 18-Nov-2026: Admission Notice, Session 2026-27",
+      "sourceDate": "18-Nov-2026",
+      "status": "Verified — official notice list"
+    },
+    {
+      "system": "Independent — BUP",
+      "source": "BUP official CSE page",
+      "url": "https://bup.edu.bd/academics/academic_details/495",
+      "verified": "01-Dec-2026–05-Jan-2027, GPA 9.00, 60-mark MCQ",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — official site"
+    },
+    {
+      "system": "Independent — JnU",
+      "source": "JnU official admission portal",
+      "url": "https://admission.jnu.ac.bd",
+      "verified": "Circular 11-Nov-2026, app 25-Nov–10-Dec, fee 1,200, Unit A 01-Jan-2027",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — official portal"
+    },
+    {
+      "system": "Independent — KU",
+      "source": "The Daily Star",
+      "url": "https://www.thedailystar.net/campus/news/khulna-university-sets-new-dates-admission-tests-4320466",
+      "verified": "KU rescheduled A&B 04-Feb, C&D 05-Feb-2027",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Independent — SUST",
+      "source": "UNB",
+      "url": "https://www.unb.com.bd/category/Bangladesh/sust-first-year-admission-tests-set-for-january-26-27/194593",
+      "verified": "SUST tests 17-18 Jan 2027, rescheduled from 26-27 Jan",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Independent — HSTU",
+      "source": "The Daily Campus",
+      "url": "https://english.thedailycampus.com/university-admission/3942",
+      "verified": "HSTU test window 24-28 Jan 2027",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report"
+    },
+    {
+      "system": "Independent — CoU",
+      "source": "TBS Graduates",
+      "url": "https://tbsgraduates.net/campus/comilla-university-to-open-admission-applications-on-december-10-supplementary-candidates-eligible/",
+      "verified": "CoU apply 10-31 Dec, A Unit 05-Feb-2027 11:00-12:00",
+      "sourceDate": "Nov-2026",
+      "status": "Verified — press report"
+    }
+  ],
+  "notices": [
+    {
+      "id": 1,
+      "date": "2026-11-24",
+      "title": "ঢাকা বিশ্ববিদ্যালয় বিজ্ঞান ইউনিটের আবেদনের শেষ তারিখ বাড়ল",
+      "body": "বিজ্ঞান ইউনিটের আবেদনের শেষ তারিখ ২৫ নভেম্বর থেকে বাড়িয়ে ২৮ নভেম্বর ২০২৬ করা হয়েছে। পরীক্ষা ১২ ডিসেম্বর ২০২৬, সকাল ১১:০০–১২:৩০।",
+      "entryId": 1
+    },
+    {
+      "id": 2,
+      "date": "2026-11-24",
+      "title": "এমবিবিএস ও বিডিএস ভর্তি পরীক্ষা ১৮ ডিসেম্বর ২০২৬",
+      "body": "আপিল বিভাগ উচ্চ আদালতের স্থগিতাদেশ স্থগিত করায় ১৮ ডিসেম্বর ২০২৬-এর মেডিকেল-ডেন্টাল ভর্তি পরীক্ষার পথ পরিষ্কার হয়েছে। সার্কুলার এখনো প্রকাশিত হয়নি — মহাপরিচালক ২৫ নভেম্বর প্রকাশের আশা প্রকাশ করেছেন।",
+      "entryId": 2
+    },
+    {
+      "id": 3,
+      "date": "2026-11-23",
+      "title": "বুয়েট ভর্তি সার্কুলার প্রকাশিত",
+      "body": "বুয়েটের ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি সার্কুলার প্রকাশিত হয়েছে। আবেদন ১ ডিসেম্বর ২০২৬ থেকে ৭ জানুয়ারি ২০২৭ পর্যন্ত; ভর্তি পরীক্ষা ১ ফেব্রুয়ারি ২০২৭। আসন ১,৩০৯টি।",
+      "entryId": 16
+    },
+    {
+      "id": 4,
+      "date": "2026-11-22",
+      "title": "কুয়েটে আবেদন চলছে, পরীক্ষা ৮ জানুয়ারি",
+      "body": "কুয়েটের আবেদন ১০ ডিসেম্বর ২০২৬ পর্যন্ত চলবে। অফিসিয়াল পোর্টাল অনুযায়ী ভর্তি পরীক্ষা ৮ জানুয়ারি ২০২৭; কিছু সংবাদমাধ্যমে ৯ জানুয়ারি লেখা হয়েছে — অফিসিয়াল পোর্টালের তারিখই প্রযোজ্য।",
+      "entryId": 6
+    },
+    {
+      "id": 5,
+      "date": "2026-11-20",
+      "title": "কৃষি গুচ্ছের সার্কুলার প্রকাশিত",
+      "body": "৯টি কৃষি বিশ্ববিদ্যালয়ের সমন্বিত ভর্তি পরীক্ষার সার্কুলার প্রকাশিত হয়েছে। আবেদন ২৫ নভেম্বর–১৫ ডিসেম্বর ২০২৬, ফি ১,৬০০ টাকা, পরীক্ষা ২ জানুয়ারি ২০২৭। সমন্বয়ক: শেরেবাংলা কৃষি বিশ্ববিদ্যালয়।",
+      "entryId": 5
+    },
+    {
+      "id": 6,
+      "date": "2026-11-19",
+      "title": "বুটেক্স ও মিস্টের সার্কুলার প্রকাশিত",
+      "body": "বাংলাদেশ টেক্সটাইল বিশ্ববিদ্যালয় (বুটেক্স) ও মিলিটারি ইনস্টিটিউট অব সায়েন্স অ্যান্ড টেকনোলজির (মিস্ট) ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি বিজ্ঞপ্তি প্রকাশিত হয়েছে।",
+      "entryId": 14
+    },
+    {
+      "id": 7,
+      "date": "2026-11-18",
+      "title": "রুয়েট ভর্তি পরীক্ষা ২৮ জানুয়ারি ২০২৭",
+      "body": "স্টিয়ারিং কমিটির সিদ্ধান্ত অনুযায়ী রুয়েটের ভর্তি পরীক্ষা ২৮ জানুয়ারি ২০২৭ অনুষ্ঠিত হবে। পূর্ণ সার্কুলার এখনো প্রকাশিত হয়নি। পরীক্ষা হবে রুয়েট ও বুয়েট কেন্দ্রে।",
+      "entryId": 13
+    },
+    {
+      "id": 8,
+      "date": "2026-11-17",
+      "title": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের A ও D ইউনিটের সার্কুলার প্রকাশিত",
+      "body": "জাবির A ও D ইউনিটের আবেদন ২২ নভেম্বর–১৫ ডিসেম্বর ২০২৬। পরীক্ষার সম্ভাব্য সময়সীমা ১০–২১ জানুয়ারি ২০২৭; চূড়ান্ত তারিখ এখনো ঘোষণা হয়নি।",
+      "entryId": 7
+    },
+    {
+      "id": 9,
+      "date": "2026-11-17",
+      "title": "বিইউপির ভর্তি বিজ্ঞপ্তি প্রকাশিত",
+      "body": "বাংলাদেশ ইউনিভার্সিটি অব প্রফেশনালসের FST/FET/FMS অনুষদের ভর্তি বিজ্ঞপ্তি প্রকাশিত হয়েছে। আবেদন ১ ডিসেম্বর ২০২৬–৫ জানুয়ারি ২০২৭; পরীক্ষা ২২ জানুয়ারি ২০২৭।",
+      "entryId": 10
+    },
+    {
+      "id": 10,
+      "date": "2026-11-12",
+      "title": "রাজশাহী বিশ্ববিদ্যালয় C ইউনিটের সার্কুলার প্রকাশিত",
+      "body": "রাবির C ইউনিটের (বিজ্ঞান) ভর্তি পরীক্ষা ১৩ ফেব্রুয়ারি ২০২৭ অনুষ্ঠিত হবে। আবেদন ১৫–৩০ নভেম্বর ২০২৬, ফি ১,৩২০ টাকা।",
+      "entryId": 20
+    },
+    {
+      "id": 11,
+      "date": "2026-11-11",
+      "title": "জগন্নাথ বিশ্ববিদ্যালয় A ইউনিটের সার্কুলার প্রকাশিত",
+      "body": "জবির A ইউনিটের আবেদন ২৫ নভেম্বর–১০ ডিসেম্বর ২০২৬, ফি ১,২০০ টাকা। ভর্তি পরীক্ষা ১ জানুয়ারি ২০২৭, সকাল ১০:০০–১১:০০।",
+      "entryId": 4
+    },
+    {
+      "id": 12,
+      "date": "2026-09-19",
+      "title": "জিএসটি A ইউনিট পরীক্ষা ২৭ মার্চ ২০২৭",
+      "body": "উপাচার্যদের সভার পর জিএসটি A ইউনিটের (বিজ্ঞান) পরীক্ষার তারিখ ২৭ মার্চ ২০২৭ ঘোষণা করা হয়েছে। পূর্ণ সার্কুলার এখনো প্রকাশিত হয়নি — আবেদনের তারিখ, ফি ও যোগ্যতা পরে জানানো হবে।",
+      "entryId": 21
+    }
+  ]
+}
