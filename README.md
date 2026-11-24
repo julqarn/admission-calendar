@@ -1,108 +1,114 @@
-# অ্যাডমিশন ক্যালেন্ডার ২০২৬-২৭
+# Admission Calendar 2026–27
 
-বাংলাদেশের সরকারি বিশ্ববিদ্যালয়ের বিজ্ঞান / প্রকৌশল / প্রযুক্তি / কৃষি /
-মেডিকেল ভর্তি পরীক্ষার সময়সূচি, আবেদন, অ্যাডমিট কার্ড ও ফলাফলের তথ্যকেন্দ্র —
-সম্পূর্ণ বাংলায়।
+A Bengali-language admission information portal for Bangladesh's public
+university science / engineering / technology / agriculture / medical
+admission tests — exam timetables, applications, admit cards and results in
+one place.
 
-## তথ্যের উৎস ও যাচাই
+![Homepage — Admission Calendar 2026–27](docs/screenshot-homepage.png)
 
-- **তথ্য যাচাইয়ের তারিখ: ২৪ নভেম্বর ২০২৬**
-- তথ্য এসেছে যাচাইকৃত এক্সেল ক্যালেন্ডার থেকে (`src/data/admissions.json`):
-  **২৩টি ভর্তি পরীক্ষা/ব্যবস্থা, ৪৯টি মাস্টার সারি / ৪৮টি স্বতন্ত্র
-  বিশ্ববিদ্যালয়, ৩৭টি সোর্স, ১২টি নোটিশ।**
-- **সুযোগ (scope):** শুধু সরকারি বিশ্ববিদ্যালয়ের বিজ্ঞান ইউনিট। বেসরকারি
-  বিশ্ববিদ্যালয় এবং মানবিক ও ব্যবসায় শিক্ষা ইউনিট অন্তর্ভুক্ত নয়।
-- **"ঘোষণা হয়নি"** মানে ২৪ নভেম্বর ২০২৬ পর্যন্ত অফিসিয়াল কোনো তথ্য পাওয়া
-  যায়নি — এটি অনুমান নয়। আগের শিক্ষাবর্ষের (২০২৫-২৬) তারিখ, ফি বা GPA নতুন
-  শিক্ষাবর্ষের তথ্য হিসেবে ব্যবহার করা হয়নি।
-- তথ্যের মধ্যে মতভেদ থাকলে (যেমন কুয়েটের পরীক্ষা ৮ বনাম ৯ জানুয়ারি, কৃষি
-  গুচ্ছের পরীক্ষা ২ বনাম ৩ জানুয়ারি) তা বিস্তারিত পাতার "নোট / সতর্কতা"-তে
-  দেখানো হয়েছে — নীরবে মীমাংসা করা হয়নি।
+## Data source & verification
 
-## যা যা আছে
+- **Data verified on: 24 November 2026**
+- Data comes from a verified Excel calendar (`src/data/admissions.json`):
+  **23 admission tests / systems, 49 master rows / 48 distinct
+  universities, 37 sources, 12 notices.**
+- **Scope:** public universities' science units only. Private universities
+  and Arts / Humanities / Business Studies units are excluded.
+- **"Not Announced"** means no official information was found as of
+  24 November 2026 — it is not a guess. Dates, fees and GPA requirements
+  from the previous session (2025–26) were not reused as 2026–27 facts.
+- Where sources disagree (e.g. KUET exam 8 vs 9 January, Agriculture
+  Cluster exam 2 vs 3 January), the conflict is shown on the detail page
+  under "Notes / Warnings" — it was not silently resolved.
 
-- **সময়কাল ট্যাব** — কালো হেডারওয়ালা টাইমলাইন টেবিল, প্রতিটি পরীক্ষার লাইভ
-  কাউন্টডাউন (৩০ সেকেন্ডে হালনাগাদ), সবচেয়ে কাছের পরীক্ষা হাইলাইট, সারিতে
-  ক্লিক করলে বিস্তারিত (যোগ্যতা, GPA, ফি, কেন্দ্র, অ্যাডমিট কার্ড, ফলাফল,
-  অফিসিয়াল লিংক, সতর্কতা)
-- **তথ্য ট্যাব** — বিশ্ববিদ্যালয়ভিত্তিক কার্ড ও দুটি বিশ্ববিদ্যালয়ের
-  পাশাপাশি তুলনা
-- **আবেদন ট্যাব** — চলমান আবেদন আলাদা করে, ফি ও Apply লিংক, বাকি দিন,
-  মেয়াদোত্তীর্ণ চিহ্নিত
-- **অ্যাডমিট / ফলাফল ট্যাব** — ঘোষিত তথ্য থাকলে দেখায়, না থাকলে বাংলায়
-  খালি অবস্থা
-- **ড্যাশবোর্ড** — মোট বিশ্ববিদ্যালয়/পরীক্ষা, সার্কুলার, ঘোষিত তারিখ, চলমান
-  আবেদন, আসন্ন ডেডলাইন ও পরীক্ষা, সর্বশেষ নোটিশ
-- **যোগ্যতা যাচাই** — SSC/HSC GPA, পাসের বছর, গ্রুপ ও বিষয়ভিত্তিক GPA দিয়ে
-  কোন কোন পরীক্ষায় আবেদন করা যাবে
-- **ডেডলাইন ট্র্যাকার** — অফিসিয়াল আবেদনের শেষ তারিখ + নিজের ডেডলাইন যোগ করা
-  যায় (ব্রাউজারে সংরক্ষিত)
-- **আমার ক্যালেন্ডার** — পছন্দের পরীক্ষা সংরক্ষণ (ব্রাউজারে সংরক্ষিত)
-- **নোটিশ ফিড** — নতুন সার্কুলার, তারিখ পরিবর্তন, আবেদন বাড়ানো
-- **টাইমটেবিল ডাউনলোড** — ব্রাউজার প্রিন্ট/PDF
-- **ডার্ক / লাইট মোড**, **অ্যাডমিন প্যানেল** — তথ্য ও নোটিশ সম্পাদনা/যোগ/মুছে
-  ফেলা যায় (শুধু এই ব্রাউজারে, localStorage-এ), যাচাইকৃত তথ্যে ফেরার বাটনসহ
+## Features
 
-## ফন্ট
+- **Timeline tab** — timetable table with a black header, a live countdown
+  for every exam (updates every 30 seconds), the nearest exam highlighted;
+  click a row for details (eligibility, GPA, fee, centres, admit card,
+  result, official links, warnings)
+- **Info tab** — per-university cards, plus a side-by-side comparison of
+  any two universities
+- **Application tab** — ongoing applications listed separately, with fee and
+  Apply link, days remaining, and expired applications marked
+- **Admit Card / Result tabs** — show announced information, or an empty
+  state in Bengali when nothing has been announced yet
+- **Dashboard** — total universities / tests, published circulars,
+  announced exam dates, ongoing applications, upcoming deadlines and exams,
+  latest notices
+- **Eligibility checker** — enter SSC / HSC GPA, passing years, group and
+  subject-wise GPA to see which tests you can apply for
+- **Deadline tracker** — official application deadlines, plus your own
+  deadlines (saved in the browser)
+- **My Calendar** — save your chosen exams (saved in the browser)
+- **Notices feed** — new circulars, date changes, extended deadlines
+- **Download timetable** — browser print / PDF
+- **Dark / light mode** and an **admin panel** — edit, add or delete entries
+  and notices (in this browser only, via localStorage), with a button to
+  reset to the verified data
 
-- মূল বাংলা লেখা: **Hind Siliguri** (Google Fonts)
-- সংখ্যা (তারিখের সংখ্যা, GPA, ফি, কাউন্টডাউন, পরিসংখ্যান): **Anek Bangla**,
-  `.num` CSS ক্লাসের মাধ্যমে — সাধারণ বাংলা লেখায় Anek Bangla ব্যবহার করা
-  হয়নি।
+## Fonts
 
-## লোকালভাবে চালানো
+- Main Bengali text: **Hind Siliguri** (Google Fonts)
+- Numbers (digits in dates, GPA, fees, countdowns, statistics):
+  **Anek Bangla**, applied through the `.num` CSS class — Anek Bangla is
+  not used for general Bengali text.
+
+## Run locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-ব্রাউজারে `http://localhost:5173` খুলুন।
+Open `http://localhost:5173` in your browser.
 
-## প্রোডাকশন বিল্ড
+## Production build
 
 ```bash
 npm run build
 npm run preview
 ```
 
-`dist/` ফোল্ডার তৈরি হবে — এটাই ডেপ্লয় করা হয়।
+This creates the `dist/` folder — that is what gets deployed.
 
-## Vercel-এ ডেপ্লয়
+## Deploy on Vercel
 
-1. এই রিপোজিটরি Vercel-এ ইমপোর্ট করুন (https://vercel.com/new)।
-2. Framework Preset: **Vite** (স্বয়ংক্রিয়ভাবে ধরা পড়ে)।
-3. Build Command: `npm run build`, Output Directory: `dist`।
-4. Deploy ক্লিক করুন — কোনো এনভায়রনমেন্ট ভেরিয়েবল লাগে না।
+1. Import this repository in Vercel (https://vercel.com/new).
+2. Framework Preset: **Vite** (detected automatically).
+3. Build Command: `npm run build`, Output Directory: `dist`.
+4. Click Deploy — no environment variables are needed.
 
-## ডেটা হালনাগাদ
+## Updating the data
 
-তথ্য `src/data/admissions.json`-এ আছে। নতুন সার্কুলার প্রকাশ হলে ফাইলটি
-অফিসিয়াল উৎস থেকে হালনাগাদ করে আবার বিল্ড ও ডেপ্লয় করুন। অ্যাডমিন প্যানেল
-দিয়ে ব্রাউজারে সাময়িক পরিবর্তন করা যায়, তবে স্থায়ী হালনাগাদ JSON ফাইলেই
-করতে হয়।
+The data lives in `src/data/admissions.json`. When a new circular is
+published, update that file from the official source, then rebuild and
+redeploy. The admin panel can make temporary changes in the browser, but
+permanent updates must go into the JSON file.
 
-## ঐচ্ছিক: Supabase সংযোগ (v1-এ নেই)
+## Optional: Supabase (not in v1)
 
-v1-এ কোনো ব্যাকএন্ড নেই — তথ্য লোকাল JSON-এ, অ্যাডমিন পরিবর্তন ও আমার
-ক্যালেন্ডার ব্রাউজারের localStorage-এ থাকে। একাধিক অ্যাডমিন/ব্যবহারকারীর মধ্যে
-তথ্য ভাগ করতে চাইলে Supabase যোগ করা যায়:
+v1 has no backend — data is local JSON, and admin changes and My Calendar
+live in the browser's localStorage. To share data between multiple admins /
+users, Supabase can be added:
 
-1. https://supabase.com-এ প্রজেক্ট তৈরি করে `admissions` (ভর্তি পরীক্ষা),
-   `notices` (নোটিশ) ও `universities` (বিশ্ববিদ্যালয়) টেবিল বানান — কলামগুলো
-   `src/data/admissions.json`-এর ফিল্ডের নামে রাখুন।
-2. প্রজেক্টের **anon public key** ও URL `.env`-এ রাখুন
-   (`VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`) — সিক্রেট কী কখনো
-   রিপোজিটরিতে কমিট করবেন না।
-3. `@supabase/supabase-js` ইনস্টল করে `src/lib/store.ts`-এর
-   localStorage-ভিত্তিক `loadEntries`/`saveEntries` ফাংশনগুলো Supabase
-   কোয়েরি দিয়ে প্রতিস্থাপন করুন (SELECT পড়া, UPDATE/INSERT লেখা)।
-4. অ্যাডমিন প্যানেলে Supabase Auth (ইমেইল লগইন) যোগ করুন, যাতে শুধু
-   অনুমোদিত অ্যাডমিন তথ্য বদলাতে পারে।
-5. `npm run build` দিয়ে যাচাই করে Vercel-এ এনভায়রনমেন্ট ভেরিয়েবল সেট করে
-   ডেপ্লয় করুন।
+1. Create a project at https://supabase.com and make `admissions`,
+   `notices` and `universities` tables — name the columns after the fields
+   in `src/data/admissions.json`.
+2. Put the project's **anon public key** and URL in `.env`
+   (`VITE_SUPABASE_URL`, `VITE_SUPABASE_ANON_KEY`) — never commit a secret
+   key to the repository.
+3. Install `@supabase/supabase-js` and replace the localStorage-based
+   `loadEntries` / `saveEntries` functions in `src/lib/store.ts` with
+   Supabase queries (SELECT for reading, UPDATE / INSERT for writing).
+4. Add Supabase Auth (email login) to the admin panel, so only authorised
+   admins can change data.
+5. Verify with `npm run build`, set the environment variables in Vercel,
+   and deploy.
 
-## লাইসেন্স
+## Licence
 
-তথ্যগুলো সংশ্লিষ্ট বিশ্ববিদ্যালয় ও সরকারি সংস্থার অফিসিয়াল বিজ্ঞপ্তি থেকে
-সংগৃহীত; প্রতিটি তথ্যের সোর্স অ্যাপের "সোর্স ও যাচাই" পাতায় দেওয়া আছে।
+The information is collected from the official notices of the respective
+universities and government bodies; every item's source is listed on the
+app's "Sources & Verification" page.
