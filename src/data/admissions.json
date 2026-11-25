@@ -2,13 +2,13 @@
   "meta": {
     "title": "অ্যাডমিশন ক্যালেন্ডার ২০২৬-২৭",
     "session": "২০২৬-২৭",
-    "verificationDate": "2026-11-24",
+    "verificationDate": "2026-11-25",
     "scope": "বাংলাদেশের সরকারি বিশ্ববিদ্যালয়ের বিজ্ঞান / প্রকৌশল / প্রযুক্তি / কৃষি / মেডিকেল ভর্তি পরীক্ষা। বেসরকারি বিশ্ববিদ্যালয় এবং মানবিক ও ব্যবসায় শিক্ষা ইউনিট অন্তর্ভুক্ত নয়।",
     "totalEntries": 23,
     "totalUniversities": 49,
     "distinctUniversities": 48,
     "totalSources": 37,
-    "totalNotices": 12
+    "totalNotices": 14
   },
   "entries": [
     {
@@ -102,7 +102,7 @@
       "name": "Jagannath University (JnU)",
       "unit": "Unit A — Science",
       "category": "Independent",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "circularPublished": "Yes — 11-Nov-2026",
       "appStart": "2026-11-25",
       "appClose": "2026-12-10",
@@ -118,7 +118,7 @@
       "eligibility": "SSC 2023 or 2024, HSC 2026 only, no second-timers; combined ≥7.00, ≥3.00 each",
       "website": "https://admission.jnu.ac.bd",
       "circularLink": null,
-      "notes": "Application opens 25-Nov-2026. Supersedes Aug-2026 announcement.",
+      "notes": "Application opened 25-Nov-2026 at 12:00 noon; closes 10-Dec-2026 11:59 PM. Verified against the official circular (11-Nov-2026) and the 25-Nov-2026 opening check. Supersedes Aug-2026 announcement.",
       "gpaRule": {
         "sscYears": [
           2023,
@@ -138,7 +138,7 @@
       "name": "Agriculture Cluster (Krishi Guccho) — 9 universities",
       "unit": "Agriculture / Veterinary / Fisheries (combined test)",
       "category": "Agriculture Cluster",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "circularPublished": "Yes — 19-Nov-2026",
       "appStart": "2026-11-25",
       "appClose": "2026-12-15",
@@ -154,7 +154,7 @@
       "eligibility": "SSC 2022/2023/2024, HSC 2025/2026 Science with Biology, Chemistry, Physics, Maths; GPA ≥4.00 each, combined ≥8.00",
       "website": "https://acas.edu.bd",
       "circularLink": null,
-      "notes": "CONFLICT: Samakal / Bangladesh Today report exam 03-Jan-2027, fee 1,200, seats 3,805 — majority reports 02-Jan-2027, 1,600, 3,795. UGC 09-Nov-2026 guidance was for tests from Feb 2027 — date may be revised. Coordinator: SAU. acas.edu.bd returned 503 on 24-Nov-2026, so circular PDF could not be verified directly.",
+      "notes": "Application opened 25-Nov-2026; closes 15-Dec-2026. Majority/circular figures confirmed 25-Nov-2026: exam 02-Jan-2027 11:00-12:00, fee 1,600, seats 3,795 (circular PDF images circulated 24-Nov-2026). Minority conflict remains flagged: Samakal / Bangladesh Today report 03-Jan-2027, fee 1,200, seats 3,805. UGC 09-Nov-2026 guidance was for tests from Feb 2027 — date may be revised. Coordinator: SAU. acas.edu.bd returned 503 on 24-Nov-2026, so circular PDF could not be verified directly from the portal.",
       "gpaRule": {
         "sscYears": [
           2022,
@@ -1736,6 +1736,20 @@
       "title": "জিএসটি A ইউনিট পরীক্ষা ২৭ মার্চ ২০২৭",
       "body": "উপাচার্যদের সভার পর জিএসটি A ইউনিটের (বিজ্ঞান) পরীক্ষার তারিখ ২৭ মার্চ ২০২৭ ঘোষণা করা হয়েছে। পূর্ণ সার্কুলার এখনো প্রকাশিত হয়নি — আবেদনের তারিখ, ফি ও যোগ্যতা পরে জানানো হবে।",
       "entryId": 21
+    },
+    {
+      "id": 13,
+      "date": "2026-11-25",
+      "title": "কৃষি গুচ্ছে আবেদন শুরু",
+      "body": "৯টি কৃষি বিশ্ববিদ্যালয়ের সমন্বিত ভর্তি পরীক্ষার আবেদন আজ ২৫ নভেম্বর ২০২৬ থেকে শুরু হয়েছে; চলবে ১৫ ডিসেম্বর ২০২৬ পর্যন্ত। ফি ১,৬০০ টাকা, পরীক্ষা ২ জানুয়ারি ২০২৭। আবেদন: acas.edu.bd।",
+      "entryId": 5
+    },
+    {
+      "id": 14,
+      "date": "2026-11-25",
+      "title": "জগন্নাথ বিশ্ববিদ্যালয় A ইউনিটে আবেদন শুরু",
+      "body": "জবি A ইউনিটের (বিজ্ঞান) আবেদন আজ ২৫ নভেম্বর ২০২৬ দুপুর ১২:০০ থেকে শুরু হয়েছে; চলবে ১০ ডিসেম্বর ২০২৬ রাত ১১:৫৯ পর্যন্ত। ফি ১,২০০ টাকা, পরীক্ষা ১ জানুয়ারি ২০২৭। আবেদন: admission.jnu.ac.bd।",
+      "entryId": 4
     }
   ]
 }
