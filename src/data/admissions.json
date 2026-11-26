@@ -2,13 +2,13 @@
   "meta": {
     "title": "অ্যাডমিশন ক্যালেন্ডার ২০২৬-২৭",
     "session": "২০২৬-২৭",
-    "verificationDate": "2026-11-25",
+    "verificationDate": "2026-11-26",
     "scope": "বাংলাদেশের সরকারি বিশ্ববিদ্যালয়ের বিজ্ঞান / প্রকৌশল / প্রযুক্তি / কৃষি / মেডিকেল ভর্তি পরীক্ষা। বেসরকারি বিশ্ববিদ্যালয় এবং মানবিক ও ব্যবসায় শিক্ষা ইউনিট অন্তর্ভুক্ত নয়।",
     "totalEntries": 23,
     "totalUniversities": 49,
     "distinctUniversities": 48,
-    "totalSources": 37,
-    "totalNotices": 14
+    "totalSources": 38,
+    "totalNotices": 15
   },
   "entries": [
     {
@@ -54,48 +54,92 @@
       "name": "DGME — Unified Medical Admission (MBBS)",
       "unit": "MBBS",
       "category": "Medical & Dental",
-      "status": "Exam Date Announced",
-      "circularPublished": null,
-      "appStart": null,
-      "appClose": null,
-      "fee": null,
+      "status": "Application Ongoing",
+      "circularPublished": "Yes — 25-Nov-2026",
+      "appStart": "2026-11-25",
+      "appClose": "2026-12-03",
+      "fee": "1,000",
       "examDate": "2026-12-18",
-      "examTime": null,
-      "examStartTime": "11:00",
+      "examTime": "10:00–11:15",
+      "examStartTime": "10:00",
       "centres": null,
-      "admitCard": null,
-      "admitStart": null,
-      "admitEnd": null,
+      "admitCard": "14-Dec-2026 to 17-Dec-2026",
+      "admitStart": "2026-12-14",
+      "admitEnd": "2026-12-17",
       "resultDate": null,
-      "eligibility": "Not Finalised — BMDC considering slight GPA reduction; amount not disclosed",
+      "eligibility": "Bangladeshi citizen; SSC 2023 or later, HSC 2025/2026 Science with Biology, Physics, Chemistry; combined GPA ≥8.50, HSC Biology GPA ≥3.50",
       "website": "https://dgme.gov.bd",
       "circularLink": null,
-      "notes": "DGME DG said 24-Nov-2026 he hoped to publish the circular 'tomorrow' (25-Nov-2026) — expected, NOT published. Original date 04-Dec-2026 postponed to 18-Dec-2026. 2025-26 baseline (combined ≥8.50, each ≥4.00, Biology ≥3.50; fee 1,000) is NOT confirmed for 2026-27.",
-      "gpaRule": null
+      "notes": "Circular published 25-Nov-2026 (DGME memo 59.14.0000.000.103.31.0001.26.1484). Online application 25-Nov-2026 18:30 to 03-Dec-2026 23:59 at dgme.teletalk.com.bd; fee 1,000 via prepaid Teletalk only, payable until 04-Dec-2026 23:59. Exam 18-Dec-2026 10:00–11:15: 100 MCQ (Biology 30, Chemistry 25, Physics 15, English 15, GK/aptitude/human qualities 15), −0.25 per wrong answer, pass 40. Merit = test score + GPA marks (SSC GPA×8 + HSC GPA×12); HSC 2025 candidates −3, students admitted to govt medical/dental in 2025-26 −5. Backward/tribal quota 1%: combined GPA ≥8.00, Biology ≥3.00. Original date 04-Dec-2026 was postponed to 18-Dec-2026.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "combinedMin": 8.5,
+        "secondTime": true,
+        "requiredSubjects": [
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "subjectEach": {
+          "subjects": [
+            "biology"
+          ],
+          "min": 3.5
+        }
+      }
     },
     {
       "id": 3,
       "name": "DGME — Unified Medical Admission (BDS)",
       "unit": "BDS",
       "category": "Medical & Dental",
-      "status": "Exam Date Announced",
-      "circularPublished": null,
-      "appStart": null,
-      "appClose": null,
-      "fee": null,
+      "status": "Application Ongoing",
+      "circularPublished": "Yes — 25-Nov-2026",
+      "appStart": "2026-11-25",
+      "appClose": "2026-12-03",
+      "fee": "1,000",
       "examDate": "2026-12-18",
-      "examTime": null,
-      "examStartTime": "11:00",
+      "examTime": "10:00–11:15",
+      "examStartTime": "10:00",
       "centres": null,
-      "admitCard": null,
-      "admitStart": null,
-      "admitEnd": null,
+      "admitCard": "14-Dec-2026 to 17-Dec-2026",
+      "admitStart": "2026-12-14",
+      "admitEnd": "2026-12-17",
       "resultDate": null,
-      "eligibility": "Not Finalised — same unified eligibility as MBBS",
+      "eligibility": "Same unified eligibility as MBBS — Bangladeshi citizen; SSC 2023 or later, HSC 2025/2026 Science with Biology, Physics, Chemistry; combined GPA ≥8.50, HSC Biology GPA ≥3.50",
       "website": "https://dgme.gov.bd",
       "circularLink": null,
-      "notes": "Same unified test, circular and application as MBBS; same day and same question paper. Govt BDS seats 545 in 2025-26 — not confirmed for 2026-27.",
-      "gpaRule": null
+      "notes": "Same unified test, circular and application as MBBS; same day and same question paper (DGME memo 59.14.0000.000.103.31.0001.26.1484, 25-Nov-2026). Application 25-Nov-2026 18:30 to 03-Dec-2026 23:59; fee 1,000 via prepaid Teletalk until 04-Dec-2026. Govt BDS seats 545 in 2025-26 — 2026-27 seat count not stated in the circular.",
+      "gpaRule": {
+        "sscYears": [
+          2023,
+          2024
+        ],
+        "hscYears": [
+          2025,
+          2026
+        ],
+        "combinedMin": 8.5,
+        "secondTime": true,
+        "requiredSubjects": [
+          "biology",
+          "physics",
+          "chemistry"
+        ],
+        "subjectEach": {
+          "subjects": [
+            "biology"
+          ],
+          "min": 3.5
+        }
+      }
     },
     {
       "id": 4,
@@ -856,7 +900,7 @@
       "location": "Nationwide",
       "system": "Medical & Dental",
       "unit": "MBBS",
-      "status": "Exam Date Announced",
+      "status": "Application Ongoing",
       "seats": null,
       "website": "https://dgme.gov.bd",
       "notes": "System, not a university — covers govt + private medical colleges"
@@ -868,7 +912,7 @@
       "location": "Nationwide",
       "system": "Medical & Dental",
       "unit": "BDS",
-      "status": "Exam Date Announced",
+      "status": "Application Ongoing",
       "seats": null,
       "website": "https://dgme.gov.bd",
       "notes": "System, not a university — covers govt + private dental colleges/units"
@@ -892,7 +936,7 @@
       "location": "Mymensingh",
       "system": "Agriculture Cluster",
       "unit": "Agriculture",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 1066,
       "website": "https://acas.edu.bd",
       "notes": "Cluster test 02-Jan-2027"
@@ -904,7 +948,7 @@
       "location": "Gazipur",
       "system": "Agriculture Cluster",
       "unit": "Agriculture",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 510,
       "website": "https://acas.edu.bd",
       "notes": "Formerly BSMRAU"
@@ -916,7 +960,7 @@
       "location": "Dhaka",
       "system": "Agriculture Cluster",
       "unit": "Agriculture",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 705,
       "website": "https://acas.edu.bd",
       "notes": "Cluster coordinator 2026-27"
@@ -928,7 +972,7 @@
       "location": "Patuakhali",
       "system": "Agriculture Cluster",
       "unit": "Agriculture",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 473,
       "website": "https://acas.edu.bd",
       "notes": "Also in GST Cluster for non-agri faculties — see GST list; counted once in distinct-university total"
@@ -940,7 +984,7 @@
       "location": "Chattogram",
       "system": "Agriculture Cluster",
       "unit": "Veterinary / Animal Sciences",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 275,
       "website": "https://acas.edu.bd",
       "notes": null
@@ -952,7 +996,7 @@
       "location": "Sylhet",
       "system": "Agriculture Cluster",
       "unit": "Agriculture",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 431,
       "website": "https://acas.edu.bd",
       "notes": null
@@ -964,7 +1008,7 @@
       "location": "Khulna",
       "system": "Agriculture Cluster",
       "unit": "Agriculture",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 150,
       "website": "https://acas.edu.bd",
       "notes": null
@@ -976,7 +1020,7 @@
       "location": "Habiganj",
       "system": "Agriculture Cluster",
       "unit": "Agriculture",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 99,
       "website": "https://acas.edu.bd",
       "notes": null
@@ -988,7 +1032,7 @@
       "location": "Kurigram",
       "system": "Agriculture Cluster",
       "unit": "Agriculture",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": 86,
       "website": "https://acas.edu.bd",
       "notes": null
@@ -1300,7 +1344,7 @@
       "location": "Dhaka",
       "system": "Independent",
       "unit": "Unit A — Science",
-      "status": "Circular Published",
+      "status": "Application Ongoing",
       "seats": null,
       "website": "https://admission.jnu.ac.bd",
       "notes": null
@@ -1650,6 +1694,14 @@
       "verified": "CoU apply 10-31 Dec, A Unit 05-Feb-2027 11:00-12:00",
       "sourceDate": "Nov-2026",
       "status": "Verified — press report"
+    },
+    {
+      "system": "Medical & Dental",
+      "source": "DGME admission circular, memo 59.14.0000.000.103.31.0001.26.1484, 25-Nov-2026",
+      "url": "https://files.dainikshiksha.com/193746/%E0%A6%AE%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2-%E0%A6%AD%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%BF-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6.pdf",
+      "verified": "Circular published 25-Nov-2026; application 25-Nov-2026 18:30–03-Dec-2026 23:59, fee 1,000 (prepaid Teletalk) until 04-Dec-2026, admit 14–17-Dec-2026, exam 18-Dec-2026 10:00–11:15; combined GPA ≥8.50, HSC Biology ≥3.50",
+      "sourceDate": "25-Nov-2026",
+      "status": "Verified — official circular PDF (rehosted by Dainik Shiksha)"
     }
   ],
   "notices": [
@@ -1750,6 +1802,13 @@
       "title": "জগন্নাথ বিশ্ববিদ্যালয় A ইউনিটে আবেদন শুরু",
       "body": "জবি A ইউনিটের (বিজ্ঞান) আবেদন আজ ২৫ নভেম্বর ২০২৬ দুপুর ১২:০০ থেকে শুরু হয়েছে; চলবে ১০ ডিসেম্বর ২০২৬ রাত ১১:৫৯ পর্যন্ত। ফি ১,২০০ টাকা, পরীক্ষা ১ জানুয়ারি ২০২৭। আবেদন: admission.jnu.ac.bd।",
       "entryId": 4
+    },
+    {
+      "id": 15,
+      "date": "2026-11-25",
+      "title": "এমবিবিএস ও বিডিএস ভর্তি বিজ্ঞপ্তি প্রকাশিত, আবেদন চলছে",
+      "body": "স্বাস্থ্য শিক্ষা অধিদপ্তরের বিজ্ঞপ্তি অনুযায়ী এমবিবিএস ও বিডিএস কোর্সে অনলাইন আবেদন ২৫ নভেম্বর ২০২৬ সন্ধ্যা ৬:৩০ থেকে ৩ ডিসেম্বর রাত ১১:৫৯ পর্যন্ত চলবে; ফি ১,০০০ টাকা (শুধু প্রি-পেইড টেলিটক), ফি জমার শেষ তারিখ ৪ ডিসেম্বর। ভর্তি পরীক্ষা ১৮ ডিসেম্বর ২০২৬, সকাল ১০:০০–১১:১৫। আবেদন: dgme.teletalk.com.bd।",
+      "entryId": 2
     }
   ]
 }
