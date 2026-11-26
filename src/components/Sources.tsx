@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import type { Source } from '../types'
-import { bn } from '../lib/utils'
+import { bn, fmtDate } from '../lib/utils'
+import { base } from '../lib/store'
 
 interface Props {
   sources: Source[]
@@ -31,7 +32,7 @@ export default function Sources({ sources }: Props) {
         প্রতিটি তথ্যের উৎস এখানে দেওয়া আছে। অফিসিয়াল পোর্টাল ও
         বিশ্ববিদ্যালয়ের সাইটকে প্রথমে, আর অফিসিয়াল সার্কুলারের সংবাদ
         প্রতিবেদনকে দ্বিতীয়ে রাখা হয়েছে। তথ্য যাচাইয়ের তারিখ:{' '}
-        <span className="num">২৪ নভেম্বর ২০২৬</span>। "ঘোষণা হয়নি" একটি
+        <span className="num">{fmtDate(base.meta.verificationDate)}</span>। "ঘোষণা হয়নি" একটি
         ফলাফল — খোঁজার ঘাটতি নয়।
       </p>
 

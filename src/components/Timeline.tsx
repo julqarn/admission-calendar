@@ -14,6 +14,7 @@ import { EmptyState } from './Shared'
 interface Props {
   entries: Entry[]
   query: string
+  verificationDate: string
   myCalendar: number[]
   onToggleMyCalendar: (id: number) => void
 }
@@ -21,6 +22,7 @@ interface Props {
 export default function Timeline({
   entries,
   query,
+  verificationDate,
   myCalendar,
   onToggleMyCalendar,
 }: Props) {
@@ -130,8 +132,8 @@ export default function Timeline({
 
       <p className="mt-3 text-xs text-zinc-500 dark:text-zinc-400">
         তথ্য যাচাইয়ের তারিখ:{' '}
-        <span className="num">২৪ নভেম্বর ২০২৬</span> • কোনো সারিতে ক্লিক করলে
-        বিস্তারিত দেখা যাবে। "ঘোষণা হয়নি" মানে ২৪ নভেম্বর ২০২৬ পর্যন্ত
+        <span className="num">{fmtDate(verificationDate)}</span> • কোনো সারিতে ক্লিক করলে
+        বিস্তারিত দেখা যাবে। "ঘোষণা হয়নি" মানে {fmtDate(verificationDate)} পর্যন্ত
         অফিসিয়াল কোনো তথ্য পাওয়া যায়নি।
       </p>
 

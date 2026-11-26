@@ -13,6 +13,7 @@ import { StatusBadge } from './Shared'
 interface Props {
   entries: Entry[]
   notices: Notice[]
+  verificationDate: string
   totalUniversities: number
   distinctUniversities: number
   onOpenEntry: (id: number) => void
@@ -41,6 +42,7 @@ function Stat({
 export default function Dashboard({
   entries,
   notices,
+  verificationDate,
   totalUniversities,
   distinctUniversities,
   onOpenEntry,
@@ -95,7 +97,7 @@ export default function Dashboard({
         </h2>
         <p className="mt-0.5 text-sm text-zinc-500 dark:text-zinc-400">
           ২০২৬-২৭ শিক্ষাবর্ষের ভর্তি পরীক্ষার সার্বিক চিত্র — তথ্য যাচাইয়ের
-          তারিখ <span className="num">২৪ নভেম্বর ২০২৬</span>
+          তারিখ <span className="num">{fmtDate(verificationDate)}</span>
         </p>
       </div>
 

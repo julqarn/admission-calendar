@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import type { Tab, View } from './types'
 import { base, loadEntries, loadMyCalendar, loadNotices, loadTheme, saveMyCalendar, saveTheme } from './lib/store'
-import { applicationState, bn } from './lib/utils'
+import { applicationState, bn, fmtDate } from './lib/utils'
 import Timeline from './components/Timeline'
 import InfoTab from './components/InfoTab'
 import ApplicationTab from './components/ApplicationTab'
@@ -108,7 +108,7 @@ export default function App() {
             সময়সূচি ও তথ্য — এক জায়গায়
           </p>
           <p className="num mt-1 text-xs text-zinc-400 dark:text-zinc-500">
-            শিক্ষাবর্ষ ২০২৬-২৭ • তথ্য যাচাইয়ের তারিখ: ২৪ নভেম্বর ২০২৬
+            শিক্ষাবর্ষ ২০২৬-২৭ • তথ্য যাচাইয়ের তারিখ: {fmtDate(base.meta.verificationDate)}
           </p>
         </header>
 
@@ -190,6 +190,7 @@ export default function App() {
                 <Timeline
                   entries={entries}
                   query={query}
+                  verificationDate={base.meta.verificationDate}
                   myCalendar={myCalendar}
                   onToggleMyCalendar={toggleMyCalendar}
                 />
@@ -233,6 +234,7 @@ export default function App() {
             <Dashboard
               entries={entries}
               notices={notices}
+              verificationDate={base.meta.verificationDate}
               totalUniversities={base.meta.totalUniversities}
               distinctUniversities={base.meta.distinctUniversities}
               onOpenEntry={openEntry}
@@ -291,7 +293,7 @@ export default function App() {
           <p>© ২০২৬ অ্যাডমিশন ক্যালেন্ডার। সর্বস্বত্ব সংরক্ষিত।</p>
           <p className="mt-1">
             শুধু সরকারি বিশ্ববিদ্যালয়ের বিজ্ঞান ইউনিটের তথ্য • তথ্য যাচাইয়ের
-            তারিখ <span className="num">২৪ নভেম্বর ২০২৬</span> • কোনো তথ্য
+            তারিখ <span className="num">{fmtDate(base.meta.verificationDate)}</span> • কোনো তথ্য
             অনুমান করে লেখা হয়নি — "ঘোষণা হয়নি" মানে অফিসিয়াল তথ্য পাওয়া
             যায়নি
           </p>
@@ -394,7 +396,7 @@ export default function App() {
               </button>
             </div>
             <p className="mt-4 text-center text-xs text-zinc-500 dark:text-zinc-400">
-              তথ্য যাচাইয়ের তারিখ: <span className="num">২৪ নভেম্বর ২০২৬</span>
+              তথ্য যাচাইয়ের তারিখ: <span className="num">{fmtDate(base.meta.verificationDate)}</span>
             </p>
           </div>
         </div>

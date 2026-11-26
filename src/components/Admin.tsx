@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import type { Entry, Notice, Status } from '../types'
-import { isAdminEdited, resetToVerified } from '../lib/store'
+import { base, isAdminEdited, resetToVerified } from '../lib/store'
 import { saveEntries, saveNotices } from '../lib/store'
 import { bn, fmtDate, statusBn } from '../lib/utils'
 
@@ -347,7 +347,7 @@ export default function Admin({
           তথ্য পুনরুদ্ধার
         </h3>
         <p className="mt-1 text-sm text-zinc-500 dark:text-zinc-400">
-          সব অ্যাডমিন পরিবর্তন মুছে যাচাইকৃত মূল তথ্যে (২৪ নভেম্বর ২০২৬) ফিরে
+          সব অ্যাডমিন পরিবর্তন মুছে যাচাইকৃত মূল তথ্যে ({fmtDate(base.meta.verificationDate)}) ফিরে
           যান। মোট <span className="num">{bn(entries.length)}</span>টি ভর্তি
           পরীক্ষা ও <span className="num">{bn(notices.length)}</span>টি নোটিশ
           রয়েছে।
